@@ -180,7 +180,7 @@
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>p.</single>
-      <multiple>p.</multiple>
+      <multiple>pp.</multiple>
     </term>
     <term name="paragraph" form="short">parag.</term>
     <term name="part" form="short">pt.</term>
@@ -219,7 +219,7 @@
     </term>
     <term name="editorial-director">
       <single>editor</single>
-      <multiple>editors</multiple>
+      <multiple>editores</multiple>
     </term>
     <term name="translator">
       <single>tradutor</single>
